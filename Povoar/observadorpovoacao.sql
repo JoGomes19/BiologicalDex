@@ -1,0 +1,22 @@
+SELECT *FROM biodex.Observador;
+    
+INSERT INTO `biodex`.`Observador` (`idObservador`, `User_Name`, `Nome`, `Localidade`, `Password`, `Email`) VALUES ('1', 'joaozao', 'João Guedes', 'Braga', 'joaozao', 'joaozao@gmail.com');
+INSERT INTO `biodex`.`Observador` (`idObservador`, `User_Name`, `Nome`, `Localidade`, `Password`, `Email`) VALUES ('2', 'pedroIron', 'Pedro Ferro', 'Lisboa', 'pedroIron', 'ironman@gmail.com');
+INSERT INTO `biodex`.`Observador` (`idObservador`, `User_Name`, `Nome`, `Localidade`, `Password`, `Email`) VALUES ('3', 'roger', 'Rogério Silva', 'Bragança', 'roger', 'roger@gmail.com');
+INSERT INTO `biodex`.`Observador` (`idObservador`, `User_Name`, `Nome`, `Localidade`, `Password`, `Email`) VALUES ('4', 'sapoking', 'Filipe Almeida', 'Lisboa', 'sapoking', 'frog@gmail.com');
+INSERT INTO `biodex`.`Observador` (`idObservador`, `User_Name`, `Nome`, `Localidade`, `Password`, `Email`) VALUES ('5', 'naturefreak', 'Andre Silva', 'Braga', 'naturefreak', 'nf@gmail.com');
+INSERT INTO `biodex`.`Observador` (`idObservador`, `User_Name`, `Nome`, `Localidade`, `Password`, `Email`) VALUES ('6', 'foxcatcher', 'Andreia Rodrigues', 'Lisboa', 'foxcatcher', 'foxy@gmail.com');
+INSERT INTO `biodex`.`Observador` (`idObservador`, `User_Name`, `Nome`, `Localidade`, `Password`, `Email`) VALUES ('7', 'lobisomem', 'Andre Guedes', 'Lisboa', 'lobisomem', 'homemcao@gmail.com');
+INSERT INTO `biodex`.`Observador` (`idObservador`, `User_Name`, `Nome`, `Localidade`, `Password`, `Email`) VALUES ('8', 'monstro', 'Luis Fontes', 'Braga', 'monstro', 'luis95@gmail.com');
+INSERT INTO `biodex`.`Observador` (`idObservador`, `User_Name`, `Nome`, `Localidade`, `Password`, `Email`) VALUES ('9', 'espantalho', 'Diana Flandres', 'Braga', 'espantalho', 'badboy@gmail.com');
+INSERT INTO `biodex`.`Observador` (`idObservador`, `User_Name`, `Nome`, `Localidade`, `Password`, `Email`) VALUES ('10', 'crabking', 'Bruno Dias', 'Bragança', 'crabking', 'crabking@gmail.com');
+INSERT INTO `biodex`.`Observador` (`idObservador`, `User_Name`, `Nome`, `Localidade`, `Password`, `Email`) VALUES ('11', 'doll', 'Patricia Faria', 'Faro', 'doll', 'bonequinha@gmail.com');
+INSERT INTO `biodex`.`Observador` (`idObservador`, `User_Name`, `Nome`, `Localidade`, `Password`, `Email`) VALUES ('12', 'dude', 'Flavio Esteves', 'Vila Real', 'dude', 'tipo@gmail.com');
+INSERT INTO `biodex`.`Observador` (`idObservador`, `User_Name`, `Nome`, `Localidade`, `Password`, `Email`) VALUES ('13', 'dalila95', 'Dalia Silva', 'Porto', 'dalila95', 'dalila95@gmail.com');
+INSERT INTO `biodex`.`Observador` (`idObservador`, `User_Name`, `Nome`, `Localidade`, `Password`, `Email`) VALUES ('14', 'jonhyboy', 'Joao Fernandes', 'Vila Real', 'jonhyboy', 'jonhy@gmail.com');
+INSERT INTO `biodex`.`Observador` (`idObservador`, `User_Name`, `Nome`, `Localidade`, `Password`, `Email`) VALUES ('15', 'joelinho', 'Joel Fontes', 'Faro', 'joelinho', 'joel@gmail.com');
+INSERT INTO `biodex`.`Observador` (`idObservador`, `User_Name`, `Nome`, `Localidade`, `Password`, `Email`) VALUES ('16', 'lala', 'Lara Maria', 'Porto', 'lala', 'lala@gmail.com');
+INSERT INTO `biodex`.`Observador` (`idObservador`, `User_Name`, `Nome`, `Localidade`, `Password`, `Email`) VALUES ('17', 'nokas', 'Ines Dantas', 'Vila Real', 'nokas', 'nesinha@gmail.com');
+INSERT INTO `biodex`.`Observador` (`idObservador`, `User_Name`, `Nome`, `Localidade`, `Password`, `Email`) VALUES ('18', 'ortonimo', 'Daniel Carvalho', 'Faro', 'ortonimo', 'dani@gmail.com');
+INSERT INTO `biodex`.`Observador` (`idObservador`, `User_Name`, `Nome`, `Localidade`, `Password`, `Email`) VALUES ('19', 'milfaces', 'Silvio Deus', 'Porto', 'milfaces', 'fanatico@gmail.com');
+INSERT INTO `biodex`.`Observador` (`idObservador`, `User_Name`, `Nome`, `Localidade`, `Password`, `Email`) VALUES ('20', 'pinto', 'Joao Pinto', 'Faro', 'pinto','joaop@gmail.com');

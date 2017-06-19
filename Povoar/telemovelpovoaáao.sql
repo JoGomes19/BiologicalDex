@@ -1,0 +1,28 @@
+SELECT * FROM biodex.Telemovel;
+
+INSERT INTO `biodex`.`Telemovel` (`Telefone`, `Observador`) VALUES ('912331211', '1');
+INSERT INTO `biodex`.`Telemovel` (`Telefone`, `Observador`) VALUES ('931222317', '1');
+INSERT INTO `biodex`.`Telemovel` (`Telefone`, `Observador`) VALUES ('912123243', '2');
+INSERT INTO `biodex`.`Telemovel` (`Telefone`, `Observador`) VALUES ('912831232', '3');
+INSERT INTO `biodex`.`Telemovel` (`Telefone`, `Observador`) VALUES ('912343832', '4');
+INSERT INTO `biodex`.`Telemovel` (`Telefone`, `Observador`) VALUES ('928423482', '5');
+INSERT INTO `biodex`.`Telemovel` (`Telefone`, `Observador`) VALUES ('934812312', '5');
+INSERT INTO `biodex`.`Telemovel` (`Telefone`, `Observador`) VALUES ('963213122', '5');
+INSERT INTO `biodex`.`Telemovel` (`Telefone`, `Observador`) VALUES ('913213123', '6');
+INSERT INTO `biodex`.`Telemovel` (`Telefone`, `Observador`) VALUES ('928423312', '7');
+INSERT INTO `biodex`.`Telemovel` (`Telefone`, `Observador`) VALUES ('893213123', '8');
+INSERT INTO `biodex`.`Telemovel` (`Telefone`, `Observador`) VALUES ('912312323', '9');
+INSERT INTO `biodex`.`Telemovel` (`Telefone`, `Observador`) VALUES ('928312312', '10');
+INSERT INTO `biodex`.`Telemovel` (`Telefone`, `Observador`) VALUES ('912365675', '10');
+INSERT INTO `biodex`.`Telemovel` (`Telefone`, `Observador`) VALUES ('925869344', '11');
+INSERT INTO `biodex`.`Telemovel` (`Telefone`, `Observador`) VALUES ('935259864', '12');
+INSERT INTO `biodex`.`Telemovel` (`Telefone`, `Observador`) VALUES ('938579438', '13');
+INSERT INTO `biodex`.`Telemovel` (`Telefone`, `Observador`) VALUES ('937598237', '13');
+INSERT INTO `biodex`.`Telemovel` (`Telefone`, `Observador`) VALUES ('938543895', '14');
+INSERT INTO `biodex`.`Telemovel` (`Telefone`, `Observador`) VALUES ('914784324', '15');
+INSERT INTO `biodex`.`Telemovel` (`Telefone`, `Observador`) VALUES ('929847589', '16');
+INSERT INTO `biodex`.`Telemovel` (`Telefone`, `Observador`) VALUES ('928578746', '17');
+INSERT INTO `biodex`.`Telemovel` (`Telefone`, `Observador`) VALUES ('968428383', '18');
+INSERT INTO `biodex`.`Telemovel` (`Telefone`, `Observador`) VALUES ('927846237', '19');
+INSERT INTO `biodex`.`Telemovel` (`Telefone`, `Observador`) VALUES ('913878324', '20');
+INSERT INTO `biodex`.`Telemovel` (`Telefone`, `Observador`) VALUES ('964873874', '20');
